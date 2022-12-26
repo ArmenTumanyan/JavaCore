@@ -59,8 +59,8 @@ public class ArrayUtil {
 
 
         for (int i = 0; i < myArray.length; i++) {
-            if (myArray[i] % 2 == 1) System.out.println(myArray[i]);
-            {
+            if (myArray[i] % 2 == 1){
+                System.out.println(myArray[i]);
 
             }
         }
@@ -106,9 +106,7 @@ public class ArrayUtil {
 
         System.out.println();
 
-        for (int i = 0; i < myArray.length; i++) {
 
-        }
         System.out.println(myArray[myArray.length / 2]);
     }
 }
