@@ -1,7 +1,5 @@
 package homeworks2;
 
-import jdk.swing.interop.SwingInterOpUtils;
-
 public class ArrayUtil {
 
     public static void main(String[] args) {
