@@ -5,7 +5,7 @@ public class Calculator {
     double plus(double a, double b) {
         double c = (a + b);
         return c;
-       // System.out.println();
+
     }
 
     double minus(double a, double b) {
@@ -24,7 +24,7 @@ public class Calculator {
     double multiply(double a, double b) {
         double c = (a * b);
         return c;
-     //   System.out.println();
+
     }
 
 }
