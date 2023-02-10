@@ -1,4 +1,4 @@
-package homeworks8;
+package homeworks.homeworks8;
 
 public class DynamicArrayDemo {
 

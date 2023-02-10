@@ -1,4 +1,4 @@
-package homeworks7;
+package homeworks.homeworks7;
 
 public class Calculator {
 

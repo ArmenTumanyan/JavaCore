@@ -1,7 +1,6 @@
-package chapter7;
+package homeworks.braseChecker;
 
 public class Stack {
-
     private int array[] = new int[10];
     private int tos;
 
@@ -25,5 +24,9 @@ public class Stack {
             return array[tos--];
         }
 
+    }
+
+    public boolean isEmpty() {
+        return tos == -1;
     }
 }

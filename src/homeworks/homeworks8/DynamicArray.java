@@ -1,6 +1,4 @@
-package homeworks8;
-
-import java.lang.reflect.Array;
+package homeworks.homeworks8;
 
 public class DynamicArray {
 

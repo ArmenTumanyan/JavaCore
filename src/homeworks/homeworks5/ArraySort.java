@@ -1,4 +1,4 @@
-package homeworks5;
+package homeworks.homeworks5;
 
 public class ArraySort {
 
